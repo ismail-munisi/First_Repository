@@ -5,7 +5,7 @@ import numpy as np
     a) Check with the data collection source
     (b) Drop the missing values
       -  Drop the variable / the data entry
-    (c) Rep;ace the missing values
+    (c) Replace the missing values
      - replace it with an average(of similar datapoints
     - replace it by frequency
     - replace it based on other function
