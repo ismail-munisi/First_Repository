@@ -1,6 +1,7 @@
 # First_Repository
 Data Analysis Using Python Programming Language
  1. Data Wrangling (Data Cleaning)
+
     (a) Check with the data collection source
     (b) Drop the missing values
       -  Drop the variable / the data entry
@@ -9,7 +10,7 @@ Data Analysis Using Python Programming Language
      - replace it by frequency
      - replace it based on other function
     (d) leave it as missing data
- 2. Exploratory Data Analysis
+ 3. Exploratory Data Analysis
    - Exploratory Data analysis
    - Descriptive Statistics
    - Group By in Python
