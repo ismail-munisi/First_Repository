@@ -3,12 +3,15 @@ Data Analysis Using Python Programming Language
  1. Data Wrangling (Data Cleaning)
 
     (a) Check with the data collection source
+    
     (b) Drop the missing values
       -  Drop the variable / the data entry
+        
     (c) Replace the missing values
      - replace it with an average(of similar datapoints
      - replace it by frequency
      - replace it based on other function
+     - 
     (d) leave it as missing data
  3. Exploratory Data Analysis
    - Exploratory Data analysis
